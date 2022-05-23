@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Lorelain90/soundwave-23.05.22.git/static/css/main.073c9b0a.css",
+    "main.js": "/Lorelain90/soundwave-23.05.22.git/static/js/main.608d8464.js",
+    "static/js/787.57200820.chunk.js": "/Lorelain90/soundwave-23.05.22.git/static/js/787.57200820.chunk.js",
+    "static/media/logo.svg": "/Lorelain90/soundwave-23.05.22.git/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/Lorelain90/soundwave-23.05.22.git/index.html",
+    "main.073c9b0a.css.map": "/Lorelain90/soundwave-23.05.22.git/static/css/main.073c9b0a.css.map",
+    "main.608d8464.js.map": "/Lorelain90/soundwave-23.05.22.git/static/js/main.608d8464.js.map",
+    "787.57200820.chunk.js.map": "/Lorelain90/soundwave-23.05.22.git/static/js/787.57200820.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.608d8464.js"
+  ]
+}
